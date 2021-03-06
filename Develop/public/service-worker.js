@@ -1,10 +1,11 @@
 const FILES_TO_CACHE = [
+    `/`,
     `/db.js`,
     `/index.html`,
     `/index.js`,
-    `/index.css`,
+    `/styles.css`,
     `/manifest.webmanifest`,
-    `/img/icons/money.png`
+    `/icon-192x192.png`
 ];
 
 const STATIC_CACHE = `static-cache-v1`;
@@ -76,3 +77,5 @@ self.addEventListener(`fetch`, event => {
         })
     );
 });
+
+
