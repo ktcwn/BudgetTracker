@@ -8,7 +8,7 @@
 
 ## About
 
-This applications allows users to add or subtract funds that persist upon refresh and will save information to local storage if a user doesn't always have internet access. 
+This applications allows users to add or subtract funds that persist upon refresh and will save information to local storage if a user doesn't always have internet access. When the user returns, with or without a running server, they will be able to check their budget and add or subtract funds as normal.
 ![Budget Tracker Demo](/budgetdemo.gif)
 
 ## Installation
