@@ -23,6 +23,19 @@ This applications allows users to add or subtract funds that persist upon refres
 
 > Install using "npm i express"
 
+### [Mongoose](https://www.npmjs.com/package/mongoose)
+
+> Install using "npm i mongoose"
+
+### [Morgan](https://www.npmjs.com/package/morgan)
+
+> Install using "npm i morgan"
+
+### [Compression](https://www.npmjs.com/package/compression)
+
+> Install using "npm i compression"
+
+
 ## Test Commands
 
 To initialize the app, open the Budget Tracker application in a new terminal, enter `node server.js` and navigate to local host address defined in the command shell.
